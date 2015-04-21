@@ -10,8 +10,8 @@ public class Employee {
     public String getName() {
         return this.name;
     }
-    public void setName(String name) {
-        this.name = name;
+    public void setName(String nam) {
+        this.name = nam;
     }
     public int getId() {
         return this.id;
